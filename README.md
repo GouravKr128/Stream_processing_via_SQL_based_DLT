@@ -5,7 +5,7 @@
 This project demonstrates a comprehensive, production-ready data engineering pipeline built for an e-commerce use case featuring sales, product, and customer datasets. The pipeline is designed to handle real-time and batch data updates while maintaining high data quality and governance standards.
 
 ### **Tech Stack**
-Databricks Delta Live Tables (DLT), PySpark, Spark SQL, Databricks SQL Dashboards.
+Databricks Delta Live Tables (DLT), PySpark, Spark SQL.
 
 ### **Description**
 
